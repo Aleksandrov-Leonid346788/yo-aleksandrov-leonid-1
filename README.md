@@ -1,3 +1,3 @@
 # yo-aleksandrov-leonid-1
 Учебный репозиторий студента группы F117 Александрова Леонида. 1-ый модуль.   
-Наставник: [Филиппов Александр](https:/t.me/aleksandrfilippov).
+Наставник: [Филиппов Александр](https://t.me/aleksandrfilippov).
